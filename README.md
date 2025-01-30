@@ -1,6 +1,6 @@
 # Heart-Failure-Dashboard
 
-##Overview
+## Overview
 This project is a comprehensive Heart Failure Dashboard designed to analyze and visualize survival outcomes in patients with heart failure. The dataset contains 299 individuals, including demographic, clinical, and laboratory parameters. The dashboard provides an interactive and detailed breakdown of survival rates based on various factors like anemia, high blood pressure, diabetes, smoking status, and more. It aims to identify trends and relationships between these variables and patient outcomes (survival or death).
 
 ## Objective
